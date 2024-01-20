@@ -1,11 +1,10 @@
-This project, part of a computer graphics assignment, focuses on animating an articulated or hierarchical model in its natural setting.
-An articulated model is comprised of interconnected parts, each moving in synchronization under constraints to mimic real-world motion.
-Our chosen model demonstrates complex movements and relationships between its components, showcasing advanced programming techniques in 
-computer graphics.
+Articulated Car Model Animation Project
 
-Key Features : 
-Hierarchical Model: We selected a detailed articulated model (e.g., robotic arm, planetary system) with natural and interconnected movements of its parts.
-Transformation Techniques: Utilized advanced transformation operations like scaling, translation, and rotation to simulate realistic motion.
-Synchronization: Seamlessly synchronized the movement of each part using PushMatrix and PopMatrix functions, ensuring a cohesive and natural animation.
-Lighting and Materials: Enhanced the model's appearance with lighting effects and material properties, offering interactive options to modify these settings.
-Interactive Control: Implemented interactive controls using keyboard and mouse inputs to manipulate various parameters of the model, such as angles of rotation and movement directions.
+This project, as part of a computer graphics assignment, showcases the animation of an articulated car model in a simulated environment. Our focus was on creating a detailed and realistically articulated car, demonstrating natural movements and relationships between its parts. This project exemplifies advanced techniques in computer graphics programming, including the use of hierarchical models and transformation operations.
+
+Key Features
+Articulated Car Model: A complex, articulated car model with interconnected parts that move synchronously, mimicking real-world car dynamics.
+Advanced Transformation Techniques: Employed scaling, translation, and rotation operations to simulate the car's realistic movements.
+Synchronization and Interactivity: Integrated PushMatrix and PopMatrix functions for seamless synchronization of movements. Implemented interactive controls for users to manipulate model parameters like rotation angles and movement directions.
+Enhanced Visuals: Utilized lighting effects and material properties to enhance the model's appearance, with interactive options for users to modify these settings.
+Contextual Environment: Added surrounding objects like a floating grid, ground, and rings to create a compelling and contextual scene for the car model.
